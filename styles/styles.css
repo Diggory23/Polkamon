@@ -1,0 +1,103 @@
+body{
+    margin:0;
+    font-family:'Merriweather', serif;
+}
+
+hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+audio{
+    position: relative;
+    left:1000px;
+    bottom: 70px;
+}
+
+.main{
+    background-color: aqua;
+    
+}
+
+#top-container{
+    position: relative;
+    top: 80px;
+    left: 120px;
+    margin: 0 5%;
+}
+
+.top-container-title{
+    color:cadetblue;
+    font-family: 'Sacramento', cursive;
+    font-size: 3.2rem;
+ 
+}
+
+.brand{
+    color: #AFEA91;
+}
+
+.polkamon{
+    width:480px;
+    height:480px;
+    position: absolute;
+    right: 10%;
+    top: 2%;
+    border: 5px solid #AFEA91;
+    
+}
+
+
+
+.Ajolomon{
+    padding: 1% 39% 0 0;
+    font-size: 1.2rem;
+    margin-right:100px;
+    line-height: 2;
+}
+
+.contact-me{
+    padding-top: 200px;
+    padding-left: 200px;
+    color:cadetblue;
+
+}
+
+.contact-title{
+    color:#000;
+    padding-top:30px;
+}
+
+.contact-message {
+    color:#000;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    padding-bottom: 50px;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+  
